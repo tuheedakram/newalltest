@@ -12,7 +12,7 @@
 	<atom:link href="https://tuheedakram.github.io/newalltest/feed" rel="self" type="application/rss+xml" />
 	<link>https://tuheedakram.github.io/newalltest</link>
 	<description>Add Meta Description Here</description>
-	<lastBuildDate>Friday, 12 February 2021 13:33:01 +0000</lastBuildDate>
+	<lastBuildDate>Friday, 12 February 2021 16:25:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>	
@@ -20,6 +20,20 @@
 	
 	
 <!--feeditem-->
+<item>
+		<title>we fdsf fdas</title>
+		<link>https://tuheedakram.github.io/newalltest/seo/we-fdsf-fdas.html</link>
+		<pubDate>Friday, 12 February 2021 16:25:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<category><![CDATA[seo]]></category>
+		<guid isPermaLink="false">https://tuheedakram.github.io/newalltest/seo/we-fdsf-fdas.html</guid> 
+		<description><![CDATA[we fdsf fdas
+by
+Posted on 12-02-2021 04:25 pm
+fdafsads dfasf dfasd dfadsf asdf dfasdf dsafasdfsdfsdfsd ggggrrwwss
+]]></description>
+       <enclosure url="#" length="0" type="image" /></item>
+
 <item>
 		<title>data 1</title>
 		<link>https://tuheedakram.github.io/newalltest/seo/data-1.html</link>
